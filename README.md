@@ -1,1 +1,3 @@
 # NLP-Rap-Project
+
+A personal project using natural language processing and data analysis to compare the song lyrics of 12 rappers/rap groups. Ten songs were chosen for each artist, using the top ten most popular songs for each on genius.com. If the artist was not the primary artist, that song was removed and the next most popular song was chosen. This project was inspired by this article: https://pudding.cool/projects/vocabulary/index.html and many of the techniques, especially for topic modelling were learnt from user adashofdata: https://github.com/adashofdata/nlp-in-python-tutorial and https://www.youtube.com/playlist?list=PLGTJdqDBAxoyyxKqcS9b0A89NRXZxfK5i 
