@@ -12,6 +12,6 @@ Conclusions: Why do I prefer the Wu-Tang Clan to other rap artists?
 
 Limitations: 
 1. I attempted to remove songs that feature other artists in the song, so that the study focused purely on the artist intended. However, I only realised late on that genius.com does not always show clearly whether an artist features. As a result, many songs feature other artists. This is especially prevalent for Tyler, The Creator, Nas and Jay-z & Kanye West, so their results may not be a completely fair representation. 
-2. More time could have been spent on cleaning the lyrics as I suspect there were many meaningless words and sounds that should have been removed. This was tougher as there were as many as 8000 words to look at. 
+2. More time could have been spent on cleaning the lyrics as I suspect there were many meaningless words and sounds that should have been removed. This was tougher as there were as many as 8000 words to look at. Something else that could have been done is stemming and lemmatisation.
 3. Better visualisations for most common words needed. 
 4. Topic modelling is not at all conclusive, so more time should be spent on that in the future. 
